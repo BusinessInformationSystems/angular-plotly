@@ -1,3 +1,5 @@
+// Svetlana's version
+
 (function() {
     'use strict';
     angular.module('plotly', []).directive('plotly', [
